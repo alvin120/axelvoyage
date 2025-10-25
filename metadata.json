@@ -1,0 +1,5 @@
+{
+  "name": "Guide Touristique de la Guyane Française",
+  "description": "Une application interactive pour découvrir les plus beaux lieux touristiques de la Guyane française, avec des descriptions générées par l'IA.",
+  "requestFramePermissions": []
+}
